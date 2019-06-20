@@ -1,4 +1,4 @@
-# Kroener-Network-Configuration
+# Home-Network-Configuration
 Home network configuration
 
 Cat 6 Fitting  
